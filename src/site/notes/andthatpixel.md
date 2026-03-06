@@ -10,4 +10,4 @@
 </nav>
 
 
-Work in progress. Game studio page + devlog + personal blog/diary/random thoughts
+Work in progress. Game studio page + devlog + personal blog/diary/random thoughts.

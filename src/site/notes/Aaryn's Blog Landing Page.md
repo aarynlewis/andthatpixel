@@ -4,4 +4,4 @@
 
 This is a test. Test. Test. Test.
 
-npm run build test
+npm run build test. Test.
